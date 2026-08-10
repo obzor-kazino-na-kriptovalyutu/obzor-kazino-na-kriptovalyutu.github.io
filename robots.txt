@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: obzor-kazino-na-kriptovalyutu.github.io
+Sitemap: https://obzor-kazino-na-kriptovalyutu.github.io/sitemap.xml
